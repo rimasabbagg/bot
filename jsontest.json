@@ -1,0 +1,24 @@
+{
+  "level_1": {
+    "1": {
+      "question": "how to the moscow kremlin called",
+      "options": {
+        "1": "red",
+        "2": "blue",
+        "3": "white"
+      },
+      "ans": "1"
+    }
+  },
+  "level_2": {
+    "1": {
+      "question": "how to metro called",
+      "options": {
+        "1": "lol",
+        "2": "ok",
+        "3": "black"
+      },
+      "ans": "2"
+    }
+  }
+}
