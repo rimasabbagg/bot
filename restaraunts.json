@@ -1,0 +1,52 @@
+{
+	"1": {
+		"name": "White Rabbit Moscow",
+		"link_site": "https://whiterabbitmoscow.ru/en/",
+		"link_geo": "Смоленская площадь, 3"
+	},
+	"2": {
+		"name": "Техникум",
+		"link_site": "https://tehnikumbistro.ru/en/about",
+		"link_geo": "ул. Большая Дмитровка, 7/5 стр.2"
+	},
+	"3": {
+		"name": "Чихо",
+		"link_site": "https://chiho.ru",
+		"link_geo": "Кривоколенный переулок, 10/12"
+	},
+	"4": {
+		"name": "Братья Караваевы",
+		"link_site": "https://www.karavaevi.ru/catalog/",
+		"link_geo": "ул. Мясницкая, 18 стр.1"
+	},
+	"5": {
+		"name": "ABC Coffee Roasters",
+		"link_site": "http://www.abc-roasters.com",
+		"link_geo": "ул. Ордынский Тупик, 4"
+	},
+	"6": {
+		"name": "Surf Coffee",
+		"link_site": "https://www.surfcoffee.ru",
+		"link_geo": "Усачёва ул., 62"
+	},
+	"7": {
+		"name": "Центральный рынок",
+		"link_site": "https://moscowcentralmarket.ru",
+		"link_geo": "Рождественский бульвар, 1"
+	},
+	"8": {
+		"name": "Усачевский рынок",
+		"link_site": "https://usch.ru",
+		"link_geo": "ул. Усачева, 26"
+	},
+	"9": {
+		"name": "Вокруг света",
+		"link_site": "https://vokrugsvetamarket.ru",
+		"link_geo": "ул. Никольская, 10"
+	},
+	"10": {
+		"name": "Депо",
+		"link_site": "https://depomoscow.ru",
+		"link_geo": "ул. Лесная, 20, стр. 3"
+	}
+}
