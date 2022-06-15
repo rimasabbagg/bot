@@ -10,13 +10,43 @@
 		"link_site": "https://mmoma.ru/"
 	},
 	"3": {
-		"name": "Третьяковская галлерея",
-		"link_history": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F",
-		"link_site": "https://www.tretyakovgallery.ru/"
+		"name": "Гараж",
+		"link_history": "https://ru.wikipedia.org/wiki/Гараж_(музей)",
+		"link_site": "https://garagemca.org"
 	},
 	"4": {
 		"name": "Новая Третьяковка",
 		"link_history": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0",
 		"link_site": "https://www.tretyakovgallery.ru/for-visitors/museums/novaya-tretyakovka/"
+	},
+	"5": {
+		"name": "Третьяковская галерея",
+		"link_history": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F",
+		"link_site": "https://www.tretyakovgallery.ru/"
+	},
+	"6": {
+		"name": "Государственный музей изобразительных искусств имени А. С. Пушкина",
+		"link_history": "https://ru.wikipedia.org/wiki/Государственный_музей_изобразительных_искусств_имени_А._С._Пушкина",
+		"link_site": "https://pushkinmuseum.art"
+	},
+	"7": {
+		"name": "Музей архитектуры имени А. В. Щусева",
+		"link_history": "https://ru.wikipedia.org/wiki/Музей_архитектуры_имени_А._В._Щусева",
+		"link_site": "http://www.muar.ru/"
+	},
+	"8": {
+		"name": "Музей Москвы",
+		"link_history": "https://ru.wikipedia.org/wiki/Музей_Москвы",
+		"link_site": "http://www.museum.ru/moscow/"
+	},
+	"9": {
+		"name": "музей Яндекса",
+		"link_history": "https://yandex.ru/museum/",
+		"link_site": "https://yandex.ru/museum/"
+	},
+	"10": {
+		"name": "Еврейский музей и центр толерантности",
+		"link_history": "https://ru.wikipedia.org/wiki/Еврейский_музей_и_центр_толерантности",
+		"link_site": "http://www.jewish-museum.ru/"
 	}
 }
